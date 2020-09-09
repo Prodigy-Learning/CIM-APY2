@@ -43,7 +43,8 @@
         "Lesson6/6.4.2/6.4.2.md",
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "Lesson6/6.2/6.2a.md"
     ],
     "testFiles": [
         "test.ts"
